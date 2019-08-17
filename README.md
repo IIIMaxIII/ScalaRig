@@ -1,1 +1,1 @@
-# SkalaRig
+# ScalaRig
